@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Introduction -->
+## Hi, I'm Niharika 👋
 
-<!--
-**niha-v/niha-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an aspiring data analyst with over 3 years of hands-on experience, I am passionate about turning complex datasets into actionable insights that drive decision-making. <br/>
+🌱 Currently learning about Microsoft Power BI Data Analyst Associate <br/>
+🔭 Check out my Projects on <br/>
+⚡ChatGPT <br/>
+⚡Blinkit Dashboard <br/>
+⚡IPL Analysis <br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+📫 How to reach me: niharika.umrani@gmail.com <br/>
+😄 Will be working on more interesting projects. 
+ 
+  
