@@ -7,7 +7,7 @@ As an aspiring data analyst with over 3 years of hands-on experience, I am passi
 ⚡ChatGPT <br/>
 ⚡Blinkit Dashboard <br/>
 ⚡IPL Analysis <br/>
-
+⚡Apple GreenHouse Gas Emission  <br/>
 
 
 
