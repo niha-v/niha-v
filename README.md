@@ -1,4 +1,4 @@
-# Hi, I'm Niharika Umrani (Neha) 👋
+# Hi, I'm Niharika Umrani 👋
 
 **Cybersecurity Analyst | Threat Detection & Incident Response | SOC Operations**
 
