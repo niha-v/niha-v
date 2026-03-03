@@ -27,7 +27,7 @@ I am a dedicated Cybersecurity Analyst focused on strengthening digital defenses
 
 * **Current:** Cybersecurity Apprentice at Evolve Security Academy.
 * **Certifications:** CompTIA Security+ (In Progress, April 2026), ESCP (Evolve Security Certified Professional)
-* **Experience:** 2+ years of professional analytics experience, focusing on automation and process improvement.
+* **Experience:** 3+ years of professional analytics experience, focusing on automation and process improvement.
 
 ---
 
