@@ -18,6 +18,9 @@ I am a dedicated Cybersecurity Analyst focused on strengthening digital defenses
 ### 🚀 Key Projects
 
 * **[Home Lab: Kali Linux & VirtualBox](https://github.com/niha-v/home-lab-kali-linux-virtualbox):** Architected a secure, isolated virtual environment for penetration testing and network reconnaissance.
+* **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment, and incident report generation to built SOC analyst workflows.
+* **[Security Monitoring Lab](https://github.com/niha-v/Security-Monitoring-Lab/blob/main/README.md):** A cloud-based cybersecurity home lab built on AWS, designed to capture and analyze 
+real-world attack traffic using a T-Pot honeypot integrated with Splunk SIEM.
 * **AWS VPC Infrastructure:** Deployed segmented network environments with hardened LAMP stacks and proper access controls.
 * **Enterprise Simulations:** Conducted risk assessments and incident response for Fortune 500 scenarios (Mastercard, Deloitte, Datacom).
 
@@ -25,7 +28,7 @@ I am a dedicated Cybersecurity Analyst focused on strengthening digital defenses
 
 ### 📊 Professional Experience & Certifications
 
-* **Current:** Cybersecurity Apprentice at Evolve Security Academy.
+* **Current:** Cybersecurity Apprentice at Evolve Security Academy. currently seeking full-time cybersecurity roles (SOC Analyst / Incident Response / Security Operations).
 * **Certifications:** CompTIA Security+ (In Progress, April 2026), ESCP (Evolve Security Certified Professional)
 * **Experience:** 3+ years of professional analytics experience, focusing on automation and process improvement.
 
