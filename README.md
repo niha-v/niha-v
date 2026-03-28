@@ -38,7 +38,7 @@ real-world attack traffic using a T-Pot honeypot integrated with Splunk SIEM.
 
 * **LinkedIn:** [linkedin.com/in/niharikaumrani](https://www.linkedin.com/in/niharikaumrani)
 * **Email:** [niharika.umrani@gmail.com](mailto:niharika.umrani@gmail.com) 
-* **Portfolio:** [Niharika's Cybersecurity Portfolio](https://niharika-umrani-rqavhir.gamma.site)
+
 
 *"Focused on building secure, resilient systems in an ever-changing threat landscape."*
  
