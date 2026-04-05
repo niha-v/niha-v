@@ -31,7 +31,7 @@ real-world attack traffic using a T-Pot honeypot integrated with Splunk SIEM.
 
 * **Current:** Cybersecurity Apprentice at Evolve Security Academy. currently seeking full-time cybersecurity roles (SOC Analyst / Incident Response / Security Operations).
 * **Certifications:** CompTIA Security+ (In Progress, April 2026),
-   [![Evolve Security Academy ](https://images.credly.com/size/110x110/images/<badge-id>/image.png)](https://www.credly.com/earner/earned/badge/a8ef6a9d-8d28-46d1-99c3-0cfcb8c66095)>)
+   [Evolve Security Academy](https://www.credly.com/earner/earned/badge/a8ef6a9d-8d28-46d1-99c3-0cfcb8c66095)
 * **Experience:** 3+ years of professional analytics experience, focusing on automation and process improvement.
 
 ---
