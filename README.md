@@ -17,10 +17,11 @@ I am a dedicated Cybersecurity Analyst focused on strengthening digital defenses
 
 ### 🚀 Key Projects
 
-* **[Home Lab: Kali Linux & VirtualBox](https://github.com/niha-v/home-lab-kali-linux-virtualbox):** Architected a secure, isolated virtual environment for penetration testing and network reconnaissance.
 * **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment, and incident report generation to built SOC analyst workflows.
+* **[Security Assessment ](https://github.com/niha-v/Cybersecurity-Internship):** Conducted grey box penetration test covering OSINT, subdomain enumeration, vulnerability assessment with Nessus, and phishing simulation, with custom Python tooling for automated scan parsing and breach data analysis.
 * **[Security Monitoring Lab](https://github.com/niha-v/Security-Monitoring-Lab/blob/main/README.md):** A cloud-based cybersecurity home lab built on AWS, designed to capture and analyze 
 real-world attack traffic using a T-Pot honeypot integrated with Splunk SIEM.
+* **[Home Lab: Kali Linux & VirtualBox](https://github.com/niha-v/home-lab-kali-linux-virtualbox):** Architected a secure, isolated virtual environment for penetration testing and network reconnaissance.
 * **AWS VPC Infrastructure:** Deployed segmented network environments with hardened LAMP stacks and proper access controls.
 * **Enterprise Simulations:** Conducted risk assessments and incident response for Fortune 500 scenarios (Mastercard, Deloitte, Datacom).
 
@@ -29,7 +30,8 @@ real-world attack traffic using a T-Pot honeypot integrated with Splunk SIEM.
 ### 📊 Professional Experience & Certifications
 
 * **Current:** Cybersecurity Apprentice at Evolve Security Academy. currently seeking full-time cybersecurity roles (SOC Analyst / Incident Response / Security Operations).
-* **Certifications:** CompTIA Security+ (In Progress, April 2026), ESCP (Evolve Security Certified Professional)
+* **Certifications:** CompTIA Security+ (In Progress, April 2026),
+   [![Evolve Security Academy ](https://images.credly.com/size/110x110/images/<badge-id>/image.png)](https://www.credly.com/earner/earned/badge/a8ef6a9d-8d28-46d1-99c3-0cfcb8c66095)>)
 * **Experience:** 3+ years of professional analytics experience, focusing on automation and process improvement.
 
 ---
