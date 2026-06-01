@@ -21,6 +21,8 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 ### 🚀 Key Projects
 
+- ** [Threat Detection Platform](https://github.com/niha-v/Threat-Detection-Platform):** Python-based platform automating network traffic analysis, IOC extraction, and threat intelligence enrichment via VirusTotal and AbuseIPDB APIs — generating professional incident reports replicating real SOC analyst workflows.
+
 - **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment, and incident report generation to build SOC analyst workflows.
 
 - **[Security Assessment](https://github.com/niha-v/Cybersecurity-Internship):** Conducted a grey box penetration test covering OSINT, subdomain enumeration, vulnerability assessment with Nessus, and phishing simulation — with custom Python tooling for automated scan parsing and breach data analysis.
