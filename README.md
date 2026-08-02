@@ -41,7 +41,7 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 - 🎓 **Cybersecurity Apprentice** — Evolve Security Academy
 - 📜 **ESCP** — Evolve Security Certified Professional
-- 📜 **CompTIA Security+** — In Progress
+- 📜 **CompTIA Security+** Certified
 - 💼 **3+ years** of professional analytics experience with a focus on automation and process improvement
 
 ---
