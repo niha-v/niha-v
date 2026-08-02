@@ -29,11 +29,13 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 - **[Security Monitoring Lab](https://github.com/niha-v/Security-Monitoring-Lab/blob/main/README.md):** Cloud-based cybersecurity home lab on AWS, designed to capture and analyze real-world attack traffic using a T-Pot honeypot integrated with Splunk SIEM.
 
+- **[Enterprise Simulations](https://github.com/niha-v/Cybersecurity-Job-Simulations):** Conducted risk assessments and incident response tabletops for Fortune 500 scenarios across Mastercard, Deloitte, and Datacom.
+  
 - **[Home Lab: Kali Linux & VirtualBox](https://github.com/niha-v/home-lab-kali-linux-virtualbox):** Architected a secure, isolated virtual environment for penetration testing and network reconnaissance.
 
 - **AWS VPC Infrastructure:** Deployed segmented network environments with hardened LAMP stacks and proper IAM access controls.
 
-- **[Enterprise Simulations](https://github.com/niha-v/Cybersecurity-Job-Simulations):** Conducted risk assessments and incident response tabletops for Fortune 500 scenarios across Mastercard, Deloitte, and Datacom.
+
 
 ---
 
