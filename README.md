@@ -33,7 +33,7 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 - **AWS VPC Infrastructure:** Deployed segmented network environments with hardened LAMP stacks and proper IAM access controls.
 
-- **Enterprise Simulations:** Conducted risk assessments and incident response tabletops for Fortune 500 scenarios across Mastercard, Deloitte, and Datacom.
+- **[Enterprise Simulations](https://github.com/niha-v/Cybersecurity-Job-Simulations):** Conducted risk assessments and incident response tabletops for Fortune 500 scenarios across Mastercard, Deloitte, and Datacom.
 
 ---
 
