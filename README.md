@@ -25,7 +25,7 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 - **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment, and incident report generation to build SOC analyst workflows.
 
-- **[AWS Cowrie Honeypot ](https://github.com/niha-v/Honeypot-/blob/main/README.md):** Cloud-based cybersecurity home lab on AWS, designed to capture and analyze real-world attack traffic using Cowrie honeypot.
+- **[AWS Cowrie Honeypot ](https://github.com/niha-v/Honeypot-/blob/main/README.md):** Designed and deployed an isolated AWS honeypot (Cowrie SSH) in a dedicated VPC with least-privilege IAM, port redirection via iptables, and real-time log shipping to CloudWatch, to capture live attacker behavior for a broader threat detection platform
 
 - **[Security Assessment](https://github.com/niha-v/Cybersecurity-Internship):** Conducted a grey box penetration test covering OSINT, subdomain enumeration, vulnerability assessment with Nessus, and phishing simulation — with custom Python tooling for automated scan parsing and breach data analysis.
 
