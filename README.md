@@ -25,9 +25,9 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 - **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment, and incident report generation to build SOC analyst workflows.
 
-- **[Security Assessment](https://github.com/niha-v/Cybersecurity-Internship):** Conducted a grey box penetration test covering OSINT, subdomain enumeration, vulnerability assessment with Nessus, and phishing simulation — with custom Python tooling for automated scan parsing and breach data analysis.
+- **[AWS Cowrie Honeypot ](https://github.com/niha-v/Honeypot-/blob/main/README.md):** Cloud-based cybersecurity home lab on AWS, designed to capture and analyze real-world attack traffic using Cowrie honeypot.
 
-- **[Security Monitoring Lab](https://github.com/niha-v/Security-Monitoring-Lab/blob/main/README.md):** Cloud-based cybersecurity home lab on AWS, designed to capture and analyze real-world attack traffic using a T-Pot honeypot integrated with Splunk SIEM.
+- **[Security Assessment](https://github.com/niha-v/Cybersecurity-Internship):** Conducted a grey box penetration test covering OSINT, subdomain enumeration, vulnerability assessment with Nessus, and phishing simulation — with custom Python tooling for automated scan parsing and breach data analysis.
 
 - **[Enterprise Simulations](https://github.com/niha-v/Cybersecurity-Job-Simulations):** Conducted risk assessments and incident response tabletops for Fortune 500 scenarios across Mastercard, Deloitte, and Datacom.
   
