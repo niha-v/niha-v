@@ -4,7 +4,7 @@
 
 I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses through proactive threat analysis and incident response. With 3+ years of professional analytics experience and intensive hands-on training from **Evolve Security Academy**, I bridge the gap between data-driven thinking and real-world security operations — building resilient environments that protect organizational assets.
 
-🔍 Currently open to **SOC Analyst**, **Incident Response**, and **Security Operations** roles.
+🔍 Currently open to **SOC Analyst**, **Incident Response** and **Security Operations** roles.
 
 ---
 
