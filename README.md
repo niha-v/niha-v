@@ -21,15 +21,13 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 ### 🚀 Key Projects
 
-- **[Threat Detection Platform](https://github.com/niha-v/Threat-Detection-Platform):** Python-based platform automating network traffic analysis, IOC extraction, and threat intelligence enrichment via VirusTotal and AbuseIPDB APIs — generating professional incident reports replicating real SOC analyst workflows.
-
 - **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment, and incident report generation to build SOC analyst workflows.
 
 - **[AWS Cowrie Honeypot ](https://github.com/niha-v/Honeypot-/blob/main/README.md):** Designed and deployed an isolated AWS honeypot (Cowrie SSH) in a dedicated VPC with least-privilege IAM, port redirection via iptables, and real-time log shipping to CloudWatch, to capture live attacker behavior for a broader threat detection platform
 
 - **[Security Assessment](https://github.com/niha-v/Cybersecurity-Internship):** Conducted a grey box penetration test covering OSINT, subdomain enumeration, vulnerability assessment with Nessus, and phishing simulation — with custom Python tooling for automated scan parsing and breach data analysis.
 
-- **[Enterprise Simulations](https://github.com/niha-v/Cybersecurity-Job-Simulations):** Conducted risk assessments and incident response tabletops for Fortune 500 scenarios across Mastercard, Deloitte, and Datacom.
+- **[Enterprise Simulations](https://github.com/niha-v/Cybersecurity-Job-Simulations):** Conducted risk assessments and incident response tabletops for Fortune 500 scenarios across Mastercard, Deloitte and Datacom.
   
 - **[Home Lab: Kali Linux & VirtualBox](https://github.com/niha-v/home-lab-kali-linux-virtualbox):** Architected a secure, isolated virtual environment for penetration testing and network reconnaissance.
 
