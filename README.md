@@ -25,6 +25,8 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 - **[AWS Cowrie Honeypot ](https://github.com/niha-v/Honeypot-/blob/main/README.md):** Designed and deployed an isolated AWS honeypot (Cowrie SSH) in a dedicated VPC with least-privilege IAM, port redirection via iptables, and real-time log shipping to CloudWatch, to capture live attacker behavior for a broader threat detection platform
 
+- **[Cloud Threat Detection Lab (AWS → Splunk)](https://github.com/niha-v/Cloud-Threat-Detection-AWS-Splunk-)** End-to-end SOC lab that ingests AWS logs into Splunk, simulates real cloud attacks and detects them with MITRE ATT&CK–mapped SPL rules. This project builds the full detection loop a SOC analyst works in: log ingestion → attack simulation → detection engineering → investigation → response. AWS telemetry (CloudTrail, VPC Flow Logs, GuardDuty, S3 access logs) flows into Splunk, attacks are generated with Stratus Red Team and each is caught by a custom detection mapped to MITRE ATT&CK and surfaced on a SOC-style dashboard.
+
 - **[Cloud-Based Active Directory](https://github.com/niha-v/Cloud-Based-Active-Directory)** Built a cloud-based Active Directory lab in AWS to simulate enterprise IAM operations. Configured AD DS on Windows Server 2022, structured an OU hierarchy across three departments, enforced password and lockout policies via GPOs and managed user accounts, RBAC groups using both GUI and PowerShell.
 
 - **[Security Assessment](https://github.com/niha-v/Cybersecurity-Internship):** Conducted a grey box penetration test covering OSINT, subdomain enumeration, vulnerability assessment with Nessus, and phishing simulation — with custom Python tooling for automated scan parsing and breach data analysis.
