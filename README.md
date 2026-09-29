@@ -21,9 +21,9 @@ I'm a dedicated Cybersecurity Analyst focused on strengthening digital defenses 
 
 ### 🚀 Key Projects
 
-- **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment, and incident report generation to build SOC analyst workflows.
+- **[Malware Traffic Analyzer](https://github.com/niha-v/Malware-network-traffic-analysis):** Automated PCAP analysis, IOC extraction and threat intelligence enrichment. Incident report generation to build SOC analyst workflows.
 
-- **[AWS Cowrie Honeypot ](https://github.com/niha-v/Honeypot-/blob/main/README.md):** Designed and deployed an isolated AWS honeypot (Cowrie SSH) in a dedicated VPC with least-privilege IAM, port redirection via iptables, and real-time log shipping to CloudWatch, to capture live attacker behavior for a broader threat detection platform
+- **[AWS Cowrie Honeypot ](https://github.com/niha-v/Honeypot-/blob/main/README.md):** Designed and deployed an isolated AWS honeypot (Cowrie SSH) in a dedicated VPC with least-privilege IAM, port redirection via iptables and real-time log shipping to CloudWatch. To capture live attacker behavior for a broader threat detection platform
 
 - **[Phishing Email Analyzer](https://github.com/niha-v/Phishing-Email-Analyzer):** Built PhishScan, a Python phishing email analyzer that validates SPF/DKIM/DMARC, detects lookalike domains, deceptive links, malicious attachments and job scams. Then generates risk scores, defanged IOCs and incident case reports.
 
